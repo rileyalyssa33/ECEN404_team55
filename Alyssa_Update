@@ -3,3 +3,5 @@ Inital Integration of Inverter with WPT coils as well as attaching to the second
 Tested inverter at different frequencies to find resonance for optimal power transfer. 
 Week of 2/14
 Waiting on PCBs to arrive, start 3D model for housing and coil stand.
+Week of 2/21
+PCBs arrived, soldered and validated secondary side PCB. Waiting on primary side for further integration. Still waiting on the consensus on the batteries.
