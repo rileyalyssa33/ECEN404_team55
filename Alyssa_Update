@@ -9,3 +9,5 @@ Week of 2/28
 Tried soldering Teddy's PCB and discovered some shorts. Lusher approved a budget extension for a more practical battery. Waiting on Primary to integrate hopefully today.
 Week 3/7
 Fully integrated with a light load, having issues wih high current load. Trying to improve coils coupling to enable maximum power transfer. 
+Week of 3/21
+Primary electronics broke before spring break. I did some debugging on it but the small buck converter was busted. Focusing on finishing data collection for our thesis. 
