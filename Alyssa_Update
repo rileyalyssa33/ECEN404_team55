@@ -11,3 +11,5 @@ Week 3/7
 Fully integrated with a light load, having issues wih high current load. Trying to improve coils coupling to enable maximum power transfer. 
 Week of 3/21
 Primary electronics broke before spring break. I did some debugging on it but the small buck converter was busted. Focusing on finishing data collection for our thesis. 
+Week of 3/28
+Everything is back up and running. Rewound the coils to try and get better magnetic connection but it didnt help much. Having a higher primary voltage seems to help. 
