@@ -13,3 +13,5 @@ Week of 3/21
 Primary electronics broke before spring break. I did some debugging on it but the small buck converter was busted. Focusing on finishing data collection for our thesis. 
 Week of 3/28
 Everything is back up and running. Rewound the coils to try and get better magnetic connection but it didnt help much. Having a higher primary voltage seems to help. 
+Wekk of 4/4
+We submitted our thesis after attempting multiple improvements for the output power. Turns out the secondary side seems to be current limiting since the coils aren't transferring enough.
